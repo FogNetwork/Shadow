@@ -10,6 +10,13 @@
     "scripts": {
         "start": "node app.js"
     },
+    "keywords": [
+        "javascript",
+        "proxy",
+        "proxy-site",
+        "unblocker",
+        "fog-network"
+    ],
     "author": "Fog Network",
     "license": "MIT",
     "dependencies": {
