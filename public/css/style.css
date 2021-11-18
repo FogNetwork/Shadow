@@ -1,174 +1,174 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 * {
-font-family: Roboto;
+  font-family: Roboto;
 }
 
 body {
-background: black;
+  background: black;
 }
 
 #search {
-height: 45px;
-width: 580px;
-border-radius: 100px;
-outline: none;
-border: 2px solid white;
-background: transparent;
-color: white;
-font-size: 16px;
-padding-right: 10px;
-padding-left: 40px;
+  height: 45px;
+  width: 580px;
+  border-radius: 100px;
+  outline: none;
+  border: 2px solid white;
+  background: transparent;
+  color: white;
+  font-size: 16px;
+  padding-right: 10px;
+  padding-left: 40px;
 }
 
 .title {
-color: white;
-text-align: center;
-font-size: 90px;
-margin-top: 200px;
+  color: white;
+  text-align: center;
+  font-size: 90px;
+  margin-top: 200px;
 }
 
 .quicklinks {
-margin-top: 10px;
+  margin-top: 10px;
 }
 
 .quicklink {
-color: white;
-font-size: 20px;
-border: 1px solid white;
-border-radius: 100px;
-padding: 5px;
-cursor: pointer;
-height: 35px;
-line-height: 35px;
+  color: white;
+  font-size: 20px;
+  border: 1px solid white;
+  border-radius: 100px;
+  padding: 8px;
+  cursor: pointer;
+  height: 35px;
+  line-height: 35px;
 }
 
 #web {
-display: none;
-position: fixed;
-height: 752px;
-width: 100%;
-top: 45px;
-bottom: 0;
-left: 0;
-right: 0;
-outline: none;
-border: none;
-background: white;
-z-index: 99;
+  display: none;
+  position: fixed;
+  height: 752px;
+  width: 100%;
+  top: 45px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  outline: none;
+  border: none;
+  background: white;
+  z-index: 99;
 }
 
 .searchicon {
-color: grey;
-position: absolute;
-top: 322px;
-font-size: 23px;
-margin-left: 10px;
+  color: grey;
+  position: absolute;
+  top: 322px;
+  font-size: 23px;
+  margin-left: 10px;
 }
 
 .settingsbtn {
-cursor: pointer;
-color: white;
-position: fixed;
-top: 8px;
-right: 8px;
-font-size: 35px;
-border-radius: 2.5px;
-border: 1px solid white;
-padding: 5px;
+  cursor: pointer;
+  color: white;
+  position: fixed;
+  top: 8px;
+  right: 8px;
+  font-size: 35px;
+  border-radius: 2.5px;
+  border: 1px solid white;
+  padding: 5px;
 }
 
 quicktext {
-font-size: 20px;
-padding: 5px;
-line-height: 35px;
+  font-size: 20px;
+  padding: 5px;
+  line-height: 35px;
 }
 
 footer {
-color: white;
-position: fixed;
-bottom: 5px;
-left: 0;
-right: 0;
-text-align: center;
+  color: white;
+  position: fixed;
+  bottom: 5px;
+  left: 0;
+  right: 0;
+  text-align: center;
 }
 
 a {
-color: white;
-text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 a:hover {
-text-decoration: underline;
+  text-decoration: underline;
 }
 
 .settings {
-display: none;
-position: fixed;
-top: 65px;
-right: 8px;
-border: 1px solid white;
-height: 300px;
-width: 200px;
-border-radius: 2px;
-background: black;
+  display: none;
+  position: fixed;
+  top: 65px;
+  right: 8px;
+  border: 1px solid white;
+  height: 300px;
+  width: 200px;
+  border-radius: 2px;
+  background: black;
 }
 
 .webnav {
-position: fixed;
-top: 0;
-right: 0;
-left: 0;
-width: 100%;
-height: 45px;
-border-bottom: 1px solid white;
-display: flex;
-flex-direction: row-reverse;
-display: none;
-z-index: 100;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 45px;
+  border-bottom: 1px solid white;
+  display: flex;
+  flex-direction: row-reverse;
+  display: none;
+  z-index: 100;
 }
 
 .webtitle {
-color: white;
-line-height: 45px;
-font-size: 25px;
-padding-left: 8px;
-position: fixed;
-left: 0;
+  color: white;
+  line-height: 45px;
+  font-size: 25px;
+  padding-left: 8px;
+  position: fixed;
+  left: 0;
 }
 
 .webbtn {
-color: white;
-font-size: 30px;
-border-radius: 2.5px;
-border: 1px solid white;
-margin: 5px;
-height: 35px;
-width: 35px;
-text-align: center;
-cursor: pointer;
+  color: white;
+  font-size: 30px;
+  border-radius: 2.5px;
+  border: 1px solid white;
+  margin: 5px;
+  height: 35px;
+  width: 35px;
+  text-align: center;
+  cursor: pointer;
 }
 
 .webicon {
-line-height: 35px;
+  line-height: 35px;
 }
 
 .settitle {
-color: white;
-text-align: center;
-font-size: 20px;
-margin: 5px;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  margin: 5px;
 }
 
 .settab {
-outline: none;
-border: 1px solid white;
-background: black;
-color: white;
-height: 25px;
-margin: 5px;
-border-radius: 2.5px;
-padding-left: 5px;
+  outline: none;
+  border: 1px solid white;
+  background: black;
+  color: white;
+  height: 25px;
+  margin: 5px;
+  border-radius: 2.5px;
+  padding-left: 5px;
 }
 
 .errortitle {
