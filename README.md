@@ -10,7 +10,7 @@ Join our [discord](https://discord.gg/yk33HZSZkU) for more links
 ### Features
 - Simple to use
 - Incredible single page design
-- Easy tag cloaking
+- Easy tab cloaking
 - Quick links for easy access
 - The latest and best proxy (Corrosion)
 
