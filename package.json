@@ -5,18 +5,11 @@
     "bugs": {
         "url": "https://github.com/FogNetwork/Shadow/issues"
     },
-    "description": "Shadow is a stunning new proxy site built to surf any blocked website and protect you from censorship",
+    "description": "Shadow is a simple yet stunning service built to access any website",
     "main": "app.js",
     "scripts": {
         "start": "node app.js"
     },
-    "keywords": [
-        "javascript",
-        "proxy",
-        "proxy-site",
-        "unblocker",
-        "fog-network"
-    ],
     "author": "Fog Network",
     "license": "MIT",
     "dependencies": {

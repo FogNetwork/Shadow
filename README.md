@@ -1,5 +1,5 @@
 # Shadow
-Shadow is a stunning new proxy site built to surf any blocked website and protect you from censorship
+Shadow is a simple yet stunning service built to access any website
 
 Join our [discord](https://discord.gg/yk33HZSZkU) for more links
 
@@ -8,11 +8,11 @@ Join our [discord](https://discord.gg/yk33HZSZkU) for more links
 <a href="https://glitch.com/edit/#!/import/github/FogNetwork/Shadow"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
 
 ### Features
-- Simple to use
 - Incredible single page design
+- Simple to use
+- Fully working omnibox
 - Easy tab cloaking
 - Quick links for easy access
-- The latest and best proxy (Corrosion)
 
 ### Setup
 
