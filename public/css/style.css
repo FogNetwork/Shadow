@@ -198,7 +198,7 @@ a:hover {
 #suggestions {
   display: none;
   width: 630px;
-  height: 168px;
+  height: 268px;
   border: 2px solid white;
   border-radius: 0 0 25px 25px;
   border-top: none;
@@ -209,6 +209,7 @@ a:hover {
   margin-right: auto;
   left: 0;
   right: 0;
+  text-align: left;
 }
 
 .sugg {
@@ -216,6 +217,7 @@ a:hover {
   font-size: 20px;
   cursor: pointer;
   padding: 5px;
+  padding-left: 10px;
 }
 
 .sugg:hover {

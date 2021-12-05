@@ -32,7 +32,7 @@ async function getsuggestions() {
 var term = search.value || "";
 var response = await fetch("/suggestions?q=" + term);
 var result = await response.json();
-var suggestions = result.slice(0, 5);
+var suggestions = result.slice(0, 8);
 for (sugg in suggestions) {
 var suggestion = suggestions[sugg]
 var sugg = document.createElement("div")
